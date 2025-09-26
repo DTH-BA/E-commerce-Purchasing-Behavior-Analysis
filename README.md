@@ -59,4 +59,17 @@ The project uses **5 CSV files** as input:
 - Provide ERD diagram.  
 - Save MySQL schema (`.sql` dump).  
 - Publish Tableau dashboards.  
-- Write project report summarizing findings.  
+- Write project report summarizing findings.
+
+### Handling Missing `signup_date`
+
+About 70% of `signup_date` values were missing in `users.csv`.  
+To enable cohort and customer analysis, missing dates were imputed by randomly subtracting 30–700 days from each user’s `last_login_date`:
+
+```sql
+UPDATE users
+SET signup_date = DATE_SUB(
+    last_login_date,
+    INTERVAL FLOOR(30 + (RAND() * 670)) DAY
+)
+WHERE signup_date IS NULL;

@@ -1,0 +1,501 @@
+product_id,category,brand,list_price,cost_price,profit_margin,launch_date,rating
+product_1,Beauty,Graham Ltd,193.52,150.8,0.22,2020-01-12,3.5
+product_2,Books,Livingston PLC,475.85,339.97,0.29,2023-09-03,3.8
+product_3,Beauty,Bender-Robinson,368.68,229.99,0.38,2024-06-03,3.2
+product_4,Clothing,Blake-Adams,303.34,250.41,0.17,2020-08-03,1.0
+product_5,Sports,"Roy, Hogan and Cunningham",86.45,66.9,0.23,2020-12-04,2.3
+product_6,Books,Arnold-Watkins,86.44,48.84,0.43,2024-12-04,3.1
+product_7,Electronics,Martinez-Hanson,38.46,33.24,0.14,2021-10-22,1.4
+product_8,Sports,"Fleming, Sutton and Morrow",434.43,360.15,0.17,2023-01-09,2.4
+product_9,Beauty,"Kaufman, Carter and Brown",304.55,267.98,0.12,2024-10-16,1.1
+product_10,Books,Farmer Inc,356.96,282.1,0.21,2024-02-17,1.3
+product_11,Clothing,Harvey-Brown,20.09,14.97,0.25,2021-01-08,2.6
+product_12,Sports,"Gonzalez, Chambers and Fox",485.26,323.81,0.33,2022-09-02,1.5
+product_13,Toys,Mccullough-Lane,417.9,364.86,0.13,2021-12-10,3.3
+product_14,Sports,Williams PLC,114.05,96.53,0.15,2023-05-08,3.8
+product_15,Electronics,Lloyd-Erickson,99.09,51.34,0.48,2024-04-09,4.2
+product_16,Home,Davis-Wilson,99.87,50.99,0.49,2021-04-10,1.8
+product_17,Sports,"Torres, Oneal and Garza",159.08,103.5,0.35,2023-01-17,1.7
+product_18,Sports,Romero-Poole,267.13,220.17,0.18,2023-07-15,1.4
+product_19,Electronics,Fry Group,221.65,198.36,0.11,2024-08-05,3.5
+product_20,Sports,Barton-Newman,152.7,85.54,0.44,2024-05-13,3.8
+product_21,Electronics,"Jackson, Barnes and Jimenez",309.81,228.53,0.26,2021-05-03,1.1
+product_22,Beauty,Miller-Johnson,78.35,51.11,0.35,2024-04-10,4.7
+product_23,Beauty,Fisher-Schneider,153.15,135.99,0.11,2020-02-16,1.2
+product_24,Beauty,Patterson LLC,189.52,158.6,0.16,2023-08-04,3.2
+product_25,Clothing,Martinez-Palmer,233.47,195.02,0.16,2022-02-16,3.8
+product_26,Toys,Gonzalez-Hutchinson,394.74,271.37,0.31,2022-11-05,4.5
+product_27,Toys,Cole PLC,107.84,71.81,0.33,2021-12-11,3.9
+product_28,Books,"Lee, Taylor and Gates",261.97,159.63,0.39,2021-02-04,4.2
+product_29,Electronics,"Salas, Santos and Moore",300.28,156.91,0.48,2024-12-22,2.4
+product_30,Home,"Carter, Perez and Henderson",32.76,27.71,0.15,2022-09-07,4.3
+product_31,Beauty,"Murphy, Wells and Castillo",307.7,253.9,0.17,2023-01-14,1.3
+product_32,Sports,Ayala-Cooper,93.56,84.19,0.1,2020-09-06,4.6
+product_33,Sports,Williams-Baldwin,41.88,37.64,0.1,2021-01-25,3.2
+product_34,Clothing,"Williams, Taylor and Gregory",474.95,343.0,0.28,2024-12-10,4.3
+product_35,Clothing,Nelson-Herrera,483.16,390.2,0.19,2020-11-30,2.8
+product_36,Books,Velazquez PLC,406.11,356.53,0.12,2021-09-20,3.6
+product_37,Books,Hood and Sons,159.26,133.76,0.16,2024-03-22,3.1
+product_38,Clothing,"Collins, Ho and Salazar",57.86,34.65,0.4,2020-05-16,3.9
+product_39,Books,"Castaneda, Berger and Thomas",345.27,234.86,0.32,2022-06-01,1.3
+product_40,Toys,"Davis, Mercado and Wells",225.67,124.49,0.45,2021-11-18,1.2
+product_41,Home,Molina Group,69.8,61.54,0.12,2024-03-01,2.0
+product_42,Toys,Miller-Snyder,252.64,187.58,0.26,2022-04-06,1.6
+product_43,Toys,Brown-Brown,26.85,15.88,0.41,2021-12-27,4.5
+product_44,Clothing,Gonzales Ltd,455.57,350.19,0.23,2024-02-09,1.9
+product_45,Home,"Luna, Campos and Hill",136.8,102.22,0.25,2021-08-16,4.9
+product_46,Home,Mccann Inc,334.64,215.26,0.36,2023-05-31,2.3
+product_47,Electronics,"Green, Rivera and Travis",162.74,88.76,0.45,2022-09-16,1.7
+product_48,Sports,"Patterson, Klein and Burns",264.83,203.56,0.23,2021-01-06,4.2
+product_49,Books,Larson Inc,277.89,196.78,0.29,2022-07-23,3.6
+product_50,Home,Kline-Hahn,100.58,81.36,0.19,2022-09-21,3.0
+product_51,Home,Sanders Ltd,485.1,343.48,0.29,2021-02-05,3.2
+product_52,Sports,Chaney Ltd,389.82,327.79,0.16,2024-01-06,3.9
+product_53,Beauty,Baker Ltd,470.35,339.01,0.28,2024-02-22,1.9
+product_54,Beauty,"Solis, Morse and Stewart",448.47,324.86,0.28,2021-09-06,5.0
+product_55,Sports,Hawkins-Mathews,302.97,257.72,0.15,2023-07-20,4.9
+product_56,Beauty,Dudley Group,461.72,305.38,0.34,2024-03-29,3.6
+product_57,Clothing,"Evans, Walter and Davis",53.36,29.54,0.45,2023-03-28,1.8
+product_58,Books,Harris and Sons,106.03,54.24,0.49,2023-03-21,3.7
+product_59,Clothing,"Rhodes, Hill and Hurley",32.16,25.79,0.2,2022-09-21,1.3
+product_60,Beauty,"Moore, Hale and Romero",169.41,126.74,0.25,2021-09-11,1.1
+product_61,Beauty,"Lawson, Larson and Weber",200.45,156.68,0.22,2020-07-06,2.0
+product_62,Books,Kennedy-Fowler,142.96,83.66,0.41,2023-01-26,2.9
+product_63,Home,Rogers LLC,416.08,230.74,0.45,2020-05-10,4.5
+product_64,Toys,Johnson LLC,184.81,93.48,0.49,2022-03-15,3.9
+product_65,Sports,Hernandez LLC,147.66,94.54,0.36,2023-04-09,4.0
+product_66,Home,Kelly-Cooper,275.92,203.07,0.26,2022-07-24,2.7
+product_67,Home,Young-Davis,79.05,51.93,0.34,2022-09-12,2.4
+product_68,Beauty,"Nichols, Hernandez and Anderson",403.08,272.07,0.33,2020-07-01,2.5
+product_69,Sports,"Hoffman, Hart and Allen",46.53,40.09,0.14,2022-09-09,5.0
+product_70,Toys,Golden Ltd,493.57,315.54,0.36,2020-12-29,1.2
+product_71,Toys,"Carson, Taylor and Hale",388.4,274.05,0.29,2020-02-08,4.5
+product_72,Books,Henry-Cross,107.37,87.34,0.19,2024-03-30,3.3
+product_73,Toys,Freeman-Wright,12.71,8.37,0.34,2021-05-11,2.8
+product_74,Toys,Miller-Novak,409.58,306.71,0.25,2024-03-19,3.9
+product_75,Electronics,Bradshaw-Howard,356.36,301.1,0.16,2023-10-04,2.9
+product_76,Books,Lambert-Campos,367.21,323.07,0.12,2022-09-08,4.5
+product_77,Electronics,"Reed, Johnson and Cook",387.92,216.78,0.44,2022-07-09,4.6
+product_78,Beauty,Goodman-Liu,46.28,40.29,0.13,2023-11-21,2.7
+product_79,Books,Mckinney LLC,185.65,129.37,0.3,2021-12-22,2.1
+product_80,Home,Ferrell Ltd,66.78,40.29,0.4,2023-03-30,3.4
+product_81,Beauty,"Thompson, Johnson and Powell",432.92,295.97,0.32,2020-01-16,4.6
+product_82,Electronics,Watson Group,315.42,281.36,0.11,2021-05-07,1.8
+product_83,Clothing,Lopez and Sons,172.14,119.99,0.3,2023-12-20,3.5
+product_84,Beauty,"Chang, Adams and Holmes",41.14,25.98,0.37,2023-02-05,3.5
+product_85,Electronics,Morgan-Turner,162.38,122.33,0.25,2022-06-12,3.9
+product_86,Sports,Scott-Freeman,169.34,100.94,0.4,2024-01-13,1.5
+product_87,Home,Graves Ltd,367.51,194.91,0.47,2020-11-06,3.9
+product_88,Sports,Cruz-Gross,322.4,177.82,0.45,2022-01-08,4.6
+product_89,Toys,"Watson, Aguilar and Richards",444.73,245.14,0.45,2023-04-08,1.7
+product_90,Sports,Rogers PLC,241.39,135.36,0.44,2021-06-29,2.0
+product_91,Toys,"Carlson, Deleon and Frank",68.6,38.11,0.44,2021-02-17,4.9
+product_92,Sports,Salinas Inc,359.49,271.9,0.24,2020-09-07,1.7
+product_93,Clothing,"Smith, Johnson and Nelson",382.78,219.24,0.43,2022-01-28,4.4
+product_94,Clothing,Tucker Ltd,285.03,181.93,0.36,2024-12-09,3.0
+product_95,Sports,"Kelley, Schmidt and Lloyd",387.77,332.98,0.14,2023-03-10,2.0
+product_96,Clothing,Watkins Ltd,251.96,173.75,0.31,2023-07-21,4.5
+product_97,Beauty,Schultz PLC,266.14,204.14,0.23,2023-12-10,2.8
+product_98,Electronics,Jackson-Woods,219.5,124.88,0.43,2024-06-19,3.1
+product_99,Sports,"Reyes, Campbell and Walker",22.46,12.96,0.42,2024-10-28,2.4
+product_100,Home,Fisher-Smith,62.87,32.46,0.48,2022-11-28,3.4
+product_101,Clothing,Mason Inc,25.4,14.42,0.43,2022-03-24,1.7
+product_102,Toys,Johnson PLC,321.84,196.78,0.39,2020-01-29,2.6
+product_103,Sports,Rodriguez Ltd,164.03,93.63,0.43,2022-08-15,4.9
+product_104,Beauty,"Myers, Santiago and Bond",259.2,138.8,0.46,2021-04-21,2.0
+product_105,Beauty,Nunez-Gallagher,454.71,249.3,0.45,2020-11-13,3.6
+product_106,Beauty,Carter LLC,132.15,90.43,0.32,2020-09-01,2.3
+product_107,Home,"Wilson, Clark and Hernandez",211.09,122.97,0.42,2022-01-17,4.1
+product_108,Books,"Cantrell, Travis and Colon",380.22,245.51,0.35,2021-11-27,1.5
+product_109,Toys,Brown LLC,122.11,85.64,0.3,2020-09-28,4.9
+product_110,Books,"French, Knight and Gonzalez",47.72,37.04,0.22,2024-01-03,2.8
+product_111,Sports,Hernandez-Ponce,151.98,78.38,0.48,2024-11-06,1.9
+product_112,Beauty,Watson LLC,89.0,72.96,0.18,2023-06-16,1.3
+product_113,Toys,Griffin Ltd,465.55,349.7,0.25,2021-01-11,1.7
+product_114,Clothing,Mills-Mcgee,405.98,216.27,0.47,2020-09-22,3.1
+product_115,Clothing,"Mcdonald, Baker and Brown",320.37,272.13,0.15,2022-07-14,2.3
+product_116,Books,"Carlson, Myers and Werner",437.02,379.49,0.13,2022-07-09,4.3
+product_117,Electronics,Gutierrez and Sons,403.8,211.77,0.48,2023-10-14,2.7
+product_118,Home,"Pratt, Washington and Mcknight",101.42,61.94,0.39,2020-12-05,2.0
+product_119,Beauty,Mendoza PLC,447.35,367.94,0.18,2021-01-23,3.5
+product_120,Toys,"Watson, Patel and Meyer",274.28,219.23,0.2,2021-07-30,3.8
+product_121,Books,Ellis and Sons,405.65,232.77,0.43,2024-09-08,1.7
+product_122,Books,"Cox, Wise and Norton",449.08,262.15,0.42,2020-01-03,1.7
+product_123,Sports,"York, Bradshaw and Perez",165.82,107.48,0.35,2023-12-23,1.1
+product_124,Sports,Erickson-Wong,63.93,44.36,0.31,2023-03-11,3.9
+product_125,Sports,Flores PLC,121.69,90.94,0.25,2021-01-10,3.7
+product_126,Clothing,"Allen, Nguyen and Perry",219.28,142.0,0.35,2024-08-20,2.9
+product_127,Sports,Browning-Walls,410.83,281.42,0.31,2020-11-19,4.4
+product_128,Toys,"Stewart, Bray and Reid",431.76,344.97,0.2,2020-05-25,4.2
+product_129,Beauty,Anderson LLC,13.41,6.9,0.49,2020-10-19,3.3
+product_130,Electronics,"Burnett, Porter and Velez",260.27,156.42,0.4,2024-08-15,4.5
+product_131,Toys,Lee-Green,214.53,168.48,0.21,2021-03-07,1.8
+product_132,Books,"Scott, Carter and Martinez",118.83,101.97,0.14,2021-12-05,1.4
+product_133,Clothing,"Miranda, Rogers and Bentley",68.73,48.43,0.3,2022-08-06,2.1
+product_134,Beauty,Smith Inc,175.43,125.05,0.29,2021-08-07,1.2
+product_135,Books,"Harding, Robertson and Sullivan",472.03,256.25,0.46,2021-02-02,3.1
+product_136,Beauty,"Fletcher, Lloyd and Guerrero",168.37,114.32,0.32,2022-03-27,4.7
+product_137,Electronics,"Mcneil, Dunn and Carter",264.21,188.39,0.29,2023-09-29,1.2
+product_138,Toys,Ramos-Graves,354.48,211.62,0.4,2022-08-21,1.5
+product_139,Clothing,Mcdonald-Ellis,188.18,114.36,0.39,2023-03-09,2.8
+product_140,Toys,"Ramirez, Moreno and Morris",486.17,316.45,0.35,2020-07-05,4.7
+product_141,Home,Mack-Cook,481.6,244.67,0.49,2020-03-01,2.3
+product_142,Books,Hill-Miller,133.37,83.87,0.37,2022-07-27,3.0
+product_143,Electronics,Baker-Vaughan,253.65,148.28,0.42,2023-11-04,1.2
+product_144,Beauty,Stanley Inc,157.43,99.34,0.37,2021-12-10,1.6
+product_145,Clothing,Moore Inc,149.57,81.95,0.45,2022-03-17,4.9
+product_146,Home,Washington-Cole,28.07,24.03,0.14,2024-01-03,4.9
+product_147,Books,"Wiggins, Kennedy and Garner",308.69,227.64,0.26,2023-09-04,1.0
+product_148,Clothing,Crawford-Olson,256.31,197.78,0.23,2023-08-18,4.8
+product_149,Home,Rowe PLC,35.22,28.73,0.18,2023-09-29,3.6
+product_150,Toys,"Wade, Kelly and Johnson",146.54,102.49,0.3,2020-01-11,4.5
+product_151,Beauty,"Butler, Padilla and Bell",455.05,243.35,0.47,2022-12-21,2.8
+product_152,Sports,Cuevas-Bowen,127.39,91.06,0.29,2020-08-13,3.1
+product_153,Clothing,Moore and Sons,81.0,59.51,0.27,2023-03-22,3.0
+product_154,Beauty,"Hill, Carpenter and Johnson",249.83,199.41,0.2,2024-09-30,3.7
+product_155,Clothing,Pratt-Thornton,492.97,331.6,0.33,2021-07-17,1.6
+product_156,Electronics,"Wheeler, Miller and Smith",128.61,70.87,0.45,2022-02-10,1.1
+product_157,Toys,Thompson-Baldwin,339.35,208.19,0.39,2024-05-13,2.2
+product_158,Toys,Hurst-Sanders,383.19,247.25,0.35,2024-05-26,3.8
+product_159,Sports,"Carter, Gordon and Kim",126.44,95.89,0.24,2024-08-10,1.8
+product_160,Sports,Mendoza PLC,366.83,267.17,0.27,2024-05-17,3.7
+product_161,Clothing,Bruce and Sons,190.21,122.2,0.36,2023-08-26,4.9
+product_162,Sports,Warren and Sons,319.83,286.12,0.11,2022-06-03,1.4
+product_163,Electronics,"Johnson, Hood and Brown",320.43,237.86,0.26,2023-06-20,3.7
+product_164,Books,"White, Elliott and Wilson",272.53,162.13,0.41,2024-02-25,2.8
+product_165,Toys,Russo Ltd,54.24,29.33,0.46,2023-10-21,4.5
+product_166,Electronics,Moreno-Cooper,419.3,235.29,0.44,2023-09-15,1.7
+product_167,Books,Alexander-Mitchell,167.18,100.04,0.4,2023-02-04,3.8
+product_168,Beauty,"Porter, Parker and Anderson",101.39,57.21,0.44,2020-08-13,4.4
+product_169,Clothing,"Bryant, Anderson and Reed",29.98,17.23,0.43,2022-04-04,4.8
+product_170,Electronics,"Simmons, Douglas and Benson",299.54,183.93,0.39,2020-08-05,3.7
+product_171,Clothing,Murray PLC,342.01,194.72,0.43,2022-07-25,3.0
+product_172,Electronics,"Wright, Bennett and Hayden",18.13,15.57,0.14,2022-01-22,3.5
+product_173,Clothing,Hill-Parsons,260.93,138.84,0.47,2021-05-20,4.5
+product_174,Clothing,"Cummings, Nielsen and Mccoy",120.98,85.87,0.29,2020-09-15,3.3
+product_175,Electronics,"West, Schultz and Reynolds",326.13,216.6,0.34,2024-12-02,1.1
+product_176,Clothing,King-Harvey,95.44,85.22,0.11,2024-03-20,4.7
+product_177,Electronics,Smith-Horton,348.56,189.9,0.46,2024-12-01,3.8
+product_178,Home,Hicks and Sons,199.5,131.5,0.34,2020-02-23,3.7
+product_179,Books,"Snyder, Spears and Barr",469.0,416.37,0.11,2022-12-06,1.9
+product_180,Books,Hayes-Bowers,77.39,65.49,0.15,2021-12-27,3.6
+product_181,Home,Watts-Fitzpatrick,177.12,146.45,0.17,2021-11-19,2.6
+product_182,Home,Nguyen-Brown,65.6,39.57,0.4,2024-03-24,3.6
+product_183,Sports,Munoz PLC,463.1,263.21,0.43,2023-01-27,1.4
+product_184,Clothing,"Campos, Vazquez and Mccoy",439.9,337.6,0.23,2022-11-09,3.6
+product_185,Electronics,Anderson-Ramirez,136.39,118.9,0.13,2024-11-11,5.0
+product_186,Books,Nicholson-Gordon,333.39,240.94,0.28,2024-05-15,1.2
+product_187,Sports,Jones-Villegas,410.44,299.07,0.27,2024-02-22,4.9
+product_188,Sports,Hernandez-Zimmerman,282.05,172.61,0.39,2021-02-22,2.6
+product_189,Toys,Mccoy Ltd,269.53,217.73,0.19,2021-11-20,4.5
+product_190,Sports,Harper Ltd,128.51,73.87,0.43,2022-04-29,4.1
+product_191,Beauty,Foley LLC,55.62,35.01,0.37,2020-03-02,3.3
+product_192,Clothing,"Henderson, Glass and Bennett",449.64,301.34,0.33,2023-03-14,4.0
+product_193,Sports,Walker and Sons,451.2,317.21,0.3,2020-08-03,4.5
+product_194,Electronics,Graves-Henderson,320.22,191.16,0.4,2020-01-03,2.6
+product_195,Clothing,"Morris, Montgomery and Richardson",176.12,96.15,0.45,2020-06-08,2.3
+product_196,Sports,Torres-Bullock,181.11,134.79,0.26,2024-10-28,3.7
+product_197,Sports,"Patel, Ashley and Yu",365.72,225.08,0.38,2022-02-19,4.2
+product_198,Toys,"Gomez, Shepherd and Owens",449.58,329.32,0.27,2023-02-17,4.0
+product_199,Clothing,Wiley Ltd,444.67,249.79,0.44,2022-06-11,4.2
+product_200,Home,Osborn-Clark,392.14,271.54,0.31,2023-01-17,2.7
+product_201,Electronics,Anderson Group,324.6,231.45,0.29,2020-11-24,4.3
+product_202,Electronics,"Edwards, Barry and Gomez",51.23,26.68,0.48,2021-08-02,1.5
+product_203,Sports,Keith-Santiago,89.2,56.61,0.37,2023-10-12,3.2
+product_204,Electronics,Jackson-Garcia,450.29,249.36,0.45,2024-06-21,1.0
+product_205,Home,Williams LLC,307.15,161.36,0.47,2023-07-14,2.3
+product_206,Books,"Miller, Arias and Anderson",14.51,13.0,0.1,2024-06-28,2.5
+product_207,Electronics,"Roy, Smith and Gonzalez",59.72,37.56,0.37,2022-08-09,2.6
+product_208,Toys,Mason and Sons,335.12,276.12,0.18,2023-09-08,3.8
+product_209,Beauty,"Cook, Holder and Christensen",12.48,7.51,0.4,2021-09-26,2.6
+product_210,Books,Hernandez-Chambers,88.8,68.61,0.23,2022-09-14,2.8
+product_211,Home,Decker-Potter,278.88,224.24,0.2,2024-04-13,2.0
+product_212,Electronics,Montes-Costa,349.03,257.67,0.26,2024-07-30,2.5
+product_213,Sports,"Moon, Castillo and Jones",329.46,226.88,0.31,2023-05-03,1.9
+product_214,Clothing,Martinez Group,119.89,79.7,0.34,2022-07-09,1.3
+product_215,Books,Johnston Inc,358.97,229.58,0.36,2022-01-07,3.4
+product_216,Toys,Cole-Taylor,126.25,110.07,0.13,2023-09-17,3.7
+product_217,Books,Jackson and Sons,169.45,141.02,0.17,2020-06-18,3.5
+product_218,Sports,Guerrero-Paul,375.78,332.95,0.11,2021-06-04,2.9
+product_219,Toys,Cooper Ltd,328.32,180.48,0.45,2024-01-26,2.5
+product_220,Electronics,"Weber, Clayton and Cannon",426.12,337.63,0.21,2020-02-09,4.5
+product_221,Sports,Young-Dennis,332.23,290.81,0.12,2024-04-09,3.1
+product_222,Home,"Campbell, Wilson and Blair",288.47,165.15,0.43,2023-07-08,2.9
+product_223,Beauty,"Hall, Peterson and Pope",55.9,29.44,0.47,2023-11-19,1.1
+product_224,Toys,Steele-Rogers,190.18,151.47,0.2,2022-08-12,2.4
+product_225,Sports,Rodgers-Stevens,139.95,102.13,0.27,2023-06-03,2.5
+product_226,Electronics,Howell PLC,129.55,108.4,0.16,2022-09-10,2.6
+product_227,Toys,"Jackson, Jenkins and Lucas",486.78,270.61,0.44,2023-02-21,3.3
+product_228,Toys,Martin-Day,202.62,165.76,0.18,2022-09-01,3.1
+product_229,Clothing,"Cummings, Andrews and Ramirez",447.1,259.61,0.42,2020-02-07,3.4
+product_230,Home,Richards Ltd,319.26,180.53,0.43,2020-11-23,4.1
+product_231,Books,Hernandez and Sons,399.46,225.98,0.43,2023-06-28,4.3
+product_232,Electronics,Dunlap-Cuevas,256.29,211.65,0.17,2023-04-14,3.9
+product_233,Books,Harrison LLC,292.68,224.22,0.23,2024-06-13,4.8
+product_234,Beauty,Melendez Inc,251.33,178.25,0.29,2022-07-02,1.1
+product_235,Sports,"Robbins, Rangel and Berg",105.67,68.0,0.36,2021-03-29,1.8
+product_236,Books,Mclaughlin-Jones,364.0,309.72,0.15,2020-02-06,1.0
+product_237,Home,Rogers-Mcmahon,147.58,96.96,0.34,2023-09-01,3.6
+product_238,Toys,"Powell, Phillips and Patton",21.91,18.11,0.17,2024-09-07,4.6
+product_239,Beauty,"Cook, Brown and Landry",326.28,220.45,0.32,2022-08-30,2.0
+product_240,Books,Adams-Chapman,96.78,62.98,0.35,2022-03-06,4.7
+product_241,Home,Mitchell and Sons,470.82,322.55,0.31,2022-08-30,1.2
+product_242,Sports,"Cochran, Glenn and Nguyen",477.43,296.27,0.38,2021-08-15,4.7
+product_243,Beauty,Harrell-Ross,458.28,366.19,0.2,2023-02-11,2.4
+product_244,Books,"Monroe, Patel and King",191.38,134.17,0.3,2022-11-29,1.4
+product_245,Electronics,White Ltd,17.57,10.42,0.41,2023-08-17,2.9
+product_246,Books,Padilla Ltd,464.88,399.72,0.14,2020-08-11,2.0
+product_247,Clothing,Baker Inc,219.81,143.66,0.35,2020-11-13,2.1
+product_248,Toys,Gonzales-Wise,483.66,346.99,0.28,2020-12-14,2.2
+product_249,Home,Rodriguez-Cooper,482.17,415.91,0.14,2020-04-24,4.2
+product_250,Books,"Suarez, Mann and Knox",427.97,320.85,0.25,2021-11-28,3.2
+product_251,Home,Myers-Lopez,154.28,84.35,0.45,2023-09-08,2.2
+product_252,Electronics,Norton PLC,198.7,174.05,0.12,2024-05-10,3.4
+product_253,Beauty,Rose-Foster,427.06,320.76,0.25,2022-11-29,3.9
+product_254,Beauty,Martin and Sons,165.29,104.79,0.37,2020-02-09,2.1
+product_255,Beauty,Bryan-Wood,93.05,51.71,0.44,2024-11-07,2.7
+product_256,Home,Perez Ltd,282.83,231.24,0.18,2023-08-05,1.5
+product_257,Toys,Guerra-Hart,468.72,350.62,0.25,2023-07-09,1.7
+product_258,Clothing,"Wallace, Miller and Elliott",351.05,250.43,0.29,2020-08-03,3.7
+product_259,Electronics,Gonzales-Delacruz,289.33,248.12,0.14,2023-03-16,1.7
+product_260,Toys,Acevedo Ltd,57.62,46.99,0.18,2020-12-01,3.1
+product_261,Books,Esparza-Richard,311.35,174.56,0.44,2023-04-06,3.8
+product_262,Toys,Le Inc,495.13,309.3,0.38,2020-04-01,1.4
+product_263,Sports,Roberts-Stevenson,78.64,47.14,0.4,2020-12-18,3.3
+product_264,Sports,Fisher Ltd,263.98,210.54,0.2,2021-07-24,2.0
+product_265,Home,Rodriguez Group,439.91,225.86,0.49,2024-05-13,4.9
+product_266,Sports,Duncan-Solis,372.98,271.51,0.27,2022-03-26,2.9
+product_267,Sports,Brown Inc,351.54,282.98,0.2,2024-08-31,4.2
+product_268,Beauty,"Gonzalez, Gilbert and Garcia",354.22,301.34,0.15,2022-02-19,3.2
+product_269,Home,Rogers PLC,186.15,118.55,0.36,2020-12-28,1.2
+product_270,Clothing,Price-Kline,153.86,127.47,0.17,2021-07-10,3.5
+product_271,Clothing,Moore LLC,406.59,221.29,0.46,2023-09-30,4.8
+product_272,Electronics,Christian-Velasquez,406.96,341.27,0.16,2024-09-12,3.4
+product_273,Electronics,Owens and Sons,434.87,239.61,0.45,2023-04-08,4.3
+product_274,Toys,Smith-Lane,457.49,301.45,0.34,2020-12-21,4.5
+product_275,Books,Hunt Group,260.56,213.38,0.18,2020-07-09,1.9
+product_276,Sports,Thompson-Lopez,255.74,143.21,0.44,2024-08-17,1.8
+product_277,Home,"Garcia, Oliver and Chapman",401.16,237.37,0.41,2021-02-25,3.4
+product_278,Toys,Chan LLC,328.48,259.14,0.21,2021-11-30,2.6
+product_279,Sports,Harris and Sons,353.96,278.93,0.21,2020-01-07,4.4
+product_280,Clothing,Fuentes-Morgan,399.94,302.54,0.24,2020-05-12,4.6
+product_281,Electronics,Snyder Inc,446.1,346.88,0.22,2024-11-05,2.4
+product_282,Clothing,"Hood, Rice and Jackson",175.62,125.94,0.28,2021-07-10,1.9
+product_283,Beauty,"Johnson, Bell and Miller",194.04,116.56,0.4,2022-04-05,4.1
+product_284,Toys,Koch PLC,56.05,35.78,0.36,2022-01-30,2.1
+product_285,Books,Davis-Watkins,293.36,167.99,0.43,2022-11-20,4.3
+product_286,Toys,"Cobb, Hall and Holmes",27.61,23.84,0.14,2021-06-18,2.7
+product_287,Electronics,Palmer Group,238.14,174.64,0.27,2021-03-01,3.7
+product_288,Clothing,Cooper-Foster,275.9,182.19,0.34,2023-11-18,1.4
+product_289,Home,Wright PLC,150.41,103.0,0.32,2021-11-02,3.5
+product_290,Beauty,Snow Ltd,299.51,263.24,0.12,2020-12-28,2.8
+product_291,Sports,Mcdowell-Stewart,24.95,14.01,0.44,2023-12-31,3.3
+product_292,Toys,"Lewis, Shea and Mays",28.3,20.79,0.27,2024-08-20,1.7
+product_293,Toys,"Vargas, Good and Frey",413.07,290.12,0.3,2024-04-23,3.9
+product_294,Toys,Monroe and Sons,186.49,138.86,0.26,2020-03-22,4.5
+product_295,Home,"Hernandez, Avila and Calderon",72.26,36.65,0.49,2020-12-21,1.9
+product_296,Books,Campbell and Sons,265.9,225.71,0.15,2023-07-05,1.4
+product_297,Clothing,Gallagher-Kelley,387.3,338.05,0.13,2024-10-07,1.1
+product_298,Electronics,Rodriguez Ltd,115.75,84.04,0.27,2021-08-11,3.6
+product_299,Home,Kelley-Simmons,315.22,245.45,0.22,2024-03-27,3.4
+product_300,Books,Roach-White,51.82,45.03,0.13,2020-10-21,3.2
+product_301,Toys,Cox-Martinez,35.32,27.65,0.22,2023-06-01,1.9
+product_302,Beauty,Johnson-Collins,270.36,151.68,0.44,2024-03-28,2.6
+product_303,Clothing,Phillips LLC,274.91,200.83,0.27,2022-12-05,3.4
+product_304,Home,Henry and Sons,322.34,239.4,0.26,2024-08-17,3.0
+product_305,Electronics,"Lewis, Hopkins and Poole",365.78,244.95,0.33,2023-02-10,5.0
+product_306,Toys,Lang Group,488.17,387.89,0.21,2023-06-10,1.5
+product_307,Electronics,Powell-Martinez,262.99,229.79,0.13,2020-01-17,3.8
+product_308,Home,"Cook, Barnes and Miller",168.25,146.42,0.13,2020-12-25,2.6
+product_309,Books,Hernandez-Ashley,399.64,271.89,0.32,2023-05-31,2.7
+product_310,Electronics,"Wiley, Taylor and Leon",142.71,77.82,0.45,2022-05-15,3.9
+product_311,Books,Wang-Anderson,225.1,201.23,0.11,2021-11-30,3.8
+product_312,Electronics,"Ryan, Gallegos and Carter",48.44,40.47,0.16,2021-03-23,5.0
+product_313,Books,"Peterson, Reed and Burns",22.42,12.33,0.45,2022-05-05,1.5
+product_314,Beauty,Singh-Rodriguez,481.7,418.28,0.13,2020-12-30,1.4
+product_315,Electronics,Edwards-Thomas,419.63,355.83,0.15,2021-11-05,3.9
+product_316,Home,"Gallagher, Jones and Stanton",351.03,248.37,0.29,2022-10-04,3.3
+product_317,Electronics,Edwards-Turner,210.39,154.95,0.26,2023-09-11,2.1
+product_318,Toys,Gilmore-Williams,94.91,62.6,0.34,2021-04-11,1.3
+product_319,Sports,"Lynch, Hanson and Larson",86.65,45.22,0.48,2021-02-17,1.3
+product_320,Books,Hall LLC,132.62,84.09,0.37,2024-01-18,4.6
+product_321,Clothing,Costa-Mack,279.12,229.2,0.18,2021-08-08,1.8
+product_322,Beauty,"Kennedy, Reyes and Vasquez",360.15,180.74,0.5,2023-06-10,2.3
+product_323,Clothing,Contreras-Joseph,333.5,211.24,0.37,2023-06-01,1.9
+product_324,Home,"Gonzales, Raymond and Keller",147.17,97.02,0.34,2022-09-20,2.4
+product_325,Books,Herrera-Johnson,477.88,341.66,0.29,2023-12-06,1.3
+product_326,Books,"Parker, Vasquez and Gonzales",371.57,322.5,0.13,2021-07-25,3.1
+product_327,Clothing,Watkins LLC,281.63,179.83,0.36,2020-11-30,1.3
+product_328,Toys,"Stevenson, Dillon and Allen",309.74,197.86,0.36,2023-05-30,4.2
+product_329,Beauty,"Berger, Morrison and Kelly",215.6,171.4,0.21,2020-02-06,1.9
+product_330,Electronics,Pruitt PLC,131.39,89.46,0.32,2022-09-15,3.2
+product_331,Home,Reynolds and Sons,184.43,108.78,0.41,2020-10-04,4.5
+product_332,Home,Wells-Contreras,381.34,259.68,0.32,2023-05-04,3.6
+product_333,Electronics,Little-Gomez,17.05,9.49,0.44,2022-07-04,3.1
+product_334,Electronics,Mclaughlin LLC,66.88,38.16,0.43,2021-04-28,2.3
+product_335,Sports,Steele Ltd,32.54,22.76,0.3,2023-06-19,2.3
+product_336,Sports,"Blake, Allen and Blair",29.96,20.0,0.33,2023-09-09,3.7
+product_337,Electronics,Nelson Group,429.18,371.64,0.13,2021-12-31,5.0
+product_338,Sports,Ortiz PLC,354.79,228.82,0.36,2020-07-10,3.6
+product_339,Sports,"Lee, Higgins and Dennis",242.35,177.46,0.27,2022-11-06,3.2
+product_340,Sports,Watson-Joseph,57.94,43.62,0.25,2021-06-07,3.9
+product_341,Home,Perez-Anderson,250.89,126.76,0.49,2022-07-06,2.9
+product_342,Home,Brooks-Bradley,242.0,185.23,0.23,2021-02-04,1.2
+product_343,Home,Allen-Rollins,94.87,54.19,0.43,2022-06-04,3.2
+product_344,Toys,"Davis, Parks and Marshall",222.59,196.86,0.12,2021-12-05,4.8
+product_345,Home,King-Ball,205.27,114.84,0.44,2020-01-22,1.7
+product_346,Clothing,Woods-Fritz,311.77,207.59,0.33,2021-04-18,3.8
+product_347,Books,Fowler-Jones,321.2,171.57,0.47,2023-02-17,1.8
+product_348,Clothing,Potter and Sons,32.2,28.94,0.1,2020-07-28,3.1
+product_349,Electronics,"Kelly, Burke and Brown",193.56,135.66,0.3,2020-11-01,1.4
+product_350,Books,Mitchell-Jones,316.67,233.75,0.26,2023-07-17,2.8
+product_351,Home,Mcguire-Finley,256.54,135.15,0.47,2021-12-04,4.0
+product_352,Books,"Vega, Johnson and Miller",429.68,343.74,0.2,2021-11-17,2.4
+product_353,Electronics,Moreno Group,332.76,194.32,0.42,2020-10-11,3.7
+product_354,Beauty,Mclaughlin Inc,89.84,77.19,0.14,2021-12-16,4.2
+product_355,Toys,George-Rosario,44.58,25.95,0.42,2024-08-26,4.7
+product_356,Books,Carlson-Elliott,324.79,187.17,0.42,2022-02-01,1.9
+product_357,Toys,"Novak, Reed and Turner",22.99,11.83,0.49,2023-06-04,2.6
+product_358,Sports,Shaffer-Johnson,297.03,204.6,0.31,2022-08-05,1.6
+product_359,Clothing,Davis Ltd,470.71,341.71,0.27,2021-01-15,5.0
+product_360,Electronics,"Mendoza, Howe and Michael",291.98,153.66,0.47,2021-04-04,4.7
+product_361,Home,Klein LLC,200.2,162.2,0.19,2022-10-27,3.2
+product_362,Books,Hernandez PLC,325.21,221.57,0.32,2020-01-29,4.4
+product_363,Beauty,Riley-Hernandez,234.54,166.47,0.29,2022-06-25,3.1
+product_364,Electronics,"Salinas, Garcia and Lynch",277.35,187.57,0.32,2022-11-22,3.5
+product_365,Sports,Wade-Duncan,471.32,311.22,0.34,2024-07-27,1.4
+product_366,Electronics,Thornton and Sons,199.19,144.18,0.28,2022-05-28,4.0
+product_367,Home,Harris and Sons,480.98,270.36,0.44,2020-03-19,1.5
+product_368,Books,Nguyen PLC,453.62,259.82,0.43,2022-08-04,4.3
+product_369,Books,"Day, Atkinson and Parker",105.94,89.49,0.16,2021-04-03,4.1
+product_370,Clothing,Caldwell-Perez,43.99,38.64,0.12,2021-07-23,3.8
+product_371,Beauty,Arellano Group,59.38,38.56,0.35,2024-04-10,1.1
+product_372,Sports,Kennedy-Moody,18.93,11.52,0.39,2024-02-14,2.2
+product_373,Electronics,"Oneill, Gonzalez and Lin",56.28,42.64,0.24,2023-12-24,2.1
+product_374,Electronics,"Wade, Cooper and Gomez",344.67,228.69,0.34,2022-01-07,2.4
+product_375,Beauty,Burgess PLC,44.88,22.9,0.49,2023-08-01,1.4
+product_376,Sports,Lee Inc,166.3,93.54,0.44,2021-05-30,4.7
+product_377,Books,Brewer-Pierce,423.99,333.42,0.21,2023-01-27,3.2
+product_378,Beauty,"Finley, Wilkerson and Thomas",21.4,16.34,0.24,2021-01-31,2.2
+product_379,Books,Brown-Hoffman,409.09,208.98,0.49,2024-02-21,2.6
+product_380,Sports,Hernandez and Sons,148.11,87.21,0.41,2020-02-08,2.8
+product_381,Toys,"Evans, Page and Spencer",67.9,40.23,0.41,2023-07-18,3.4
+product_382,Clothing,"Fuentes, Peck and Cuevas",351.4,270.14,0.23,2022-06-05,3.1
+product_383,Books,"Simon, Morgan and Campbell",318.18,161.6,0.49,2022-03-07,4.7
+product_384,Sports,"Sellers, Russo and May",439.96,238.3,0.46,2020-06-05,3.0
+product_385,Home,Johnson-Thomas,370.18,303.54,0.18,2023-01-03,5.0
+product_386,Beauty,"Nunez, Cross and James",403.71,230.69,0.43,2022-06-02,4.4
+product_387,Clothing,Adams-Kelly,148.2,112.79,0.24,2024-12-28,1.8
+product_388,Beauty,"Mason, Brown and Yates",96.95,57.71,0.4,2023-02-27,4.7
+product_389,Books,"Schultz, Jackson and Butler",377.8,203.93,0.46,2024-09-06,1.5
+product_390,Home,"Williams, Martinez and Jenkins",405.35,242.1,0.4,2022-08-31,4.3
+product_391,Electronics,Mitchell-Hernandez,495.35,390.78,0.21,2023-01-12,2.5
+product_392,Electronics,"Pope, Lawson and Irwin",212.18,178.71,0.16,2022-11-11,4.5
+product_393,Beauty,Simon-Maldonado,192.29,160.0,0.17,2024-01-22,4.5
+product_394,Electronics,"Cole, Hunter and Clark",390.44,257.25,0.34,2024-04-11,4.2
+product_395,Beauty,"Perez, Wilkins and Edwards",176.99,135.79,0.23,2024-09-26,4.2
+product_396,Beauty,Hardy-Harris,466.07,271.25,0.42,2022-04-28,2.2
+product_397,Electronics,"Mendez, Peck and Montgomery",430.62,265.8,0.38,2023-11-06,1.3
+product_398,Clothing,Rodriguez-Moore,220.21,189.06,0.14,2022-01-17,2.6
+product_399,Beauty,"Hall, Johnson and Davis",377.93,190.93,0.49,2024-01-03,1.7
+product_400,Sports,"Anderson, Martin and Smith",379.73,202.85,0.47,2024-06-15,3.8
+product_401,Beauty,Morton PLC,60.53,35.3,0.42,2022-09-15,2.4
+product_402,Toys,Jenkins-Aguirre,452.25,230.92,0.49,2020-01-21,4.9
+product_403,Sports,Bentley Inc,257.57,147.48,0.43,2020-10-29,3.6
+product_404,Sports,Fitzgerald-Fuentes,414.96,304.26,0.27,2022-05-18,4.3
+product_405,Sports,Sullivan-Wong,166.82,111.53,0.33,2020-03-24,1.5
+product_406,Beauty,Garcia-Dunn,448.81,384.66,0.14,2024-12-02,4.4
+product_407,Toys,Barr-Long,200.71,165.98,0.17,2024-08-09,4.7
+product_408,Books,"Sweeney, Anderson and Vaughan",15.31,9.75,0.36,2024-01-16,2.9
+product_409,Clothing,Jackson-Chen,453.64,273.89,0.4,2023-11-11,3.4
+product_410,Toys,Gilbert-Castillo,54.73,35.68,0.35,2024-03-10,4.1
+product_411,Beauty,"Simmons, Farmer and Mills",166.46,122.53,0.26,2023-07-04,1.7
+product_412,Beauty,Sawyer-Lee,475.53,288.75,0.39,2021-07-23,3.0
+product_413,Clothing,Patel PLC,475.8,356.69,0.25,2022-07-22,2.6
+product_414,Electronics,Sanchez and Sons,290.98,193.14,0.34,2024-03-30,1.6
+product_415,Beauty,Davis-Blake,319.6,230.37,0.28,2023-03-31,2.5
+product_416,Electronics,"Colon, Morgan and Baldwin",229.74,154.95,0.33,2023-04-01,1.3
+product_417,Books,"Martin, Ross and Anderson",153.67,94.94,0.38,2022-10-05,1.1
+product_418,Home,Cruz LLC,171.05,150.42,0.12,2022-03-03,1.5
+product_419,Clothing,Dunn LLC,339.53,273.47,0.19,2022-03-02,4.9
+product_420,Electronics,Vincent-Nguyen,378.66,210.55,0.44,2024-03-27,3.2
+product_421,Home,"Solis, Jenkins and Lane",397.87,337.15,0.15,2024-12-14,4.9
+product_422,Electronics,Kane-Williams,396.91,275.84,0.31,2023-07-18,2.7
+product_423,Sports,Williams-Owens,54.69,46.91,0.14,2021-05-06,2.2
+product_424,Electronics,Rivera Ltd,252.27,206.85,0.18,2020-07-26,3.0
+product_425,Home,Jones-Cole,38.2,25.6,0.33,2024-04-11,2.8
+product_426,Toys,Crane-Powell,279.27,142.15,0.49,2024-05-26,1.4
+product_427,Toys,Bullock LLC,226.35,137.5,0.39,2022-12-19,3.6
+product_428,Sports,Mcgee-Mcdowell,444.98,318.9,0.28,2021-03-05,1.9
+product_429,Home,Kim Inc,181.95,137.08,0.25,2022-09-11,3.5
+product_430,Electronics,Frye-West,67.36,40.63,0.4,2024-08-07,3.6
+product_431,Beauty,Coffey-Roberts,80.07,44.5,0.44,2024-06-16,1.6
+product_432,Books,Cox Ltd,383.14,319.53,0.17,2023-08-25,1.2
+product_433,Sports,"Fowler, Bridges and Malone",312.93,279.68,0.11,2021-06-03,4.1
+product_434,Books,Short LLC,59.55,42.3,0.29,2021-08-13,2.8
+product_435,Clothing,Arellano PLC,51.21,29.12,0.43,2022-11-16,1.2
+product_436,Beauty,Randall-Holt,353.47,215.24,0.39,2024-09-05,5.0
+product_437,Books,"Banks, Riddle and Norman",45.65,23.16,0.49,2024-05-04,1.2
+product_438,Sports,Sutton Ltd,412.71,357.29,0.13,2020-07-17,3.8
+product_439,Sports,Duncan-Lopez,356.06,194.8,0.45,2021-01-21,4.9
+product_440,Home,Johns-Allen,49.86,36.43,0.27,2020-12-14,2.0
+product_441,Home,Lucero Inc,51.57,31.44,0.39,2022-08-17,1.6
+product_442,Electronics,Richards Ltd,493.45,356.11,0.28,2021-11-23,1.5
+product_443,Clothing,Kramer-Garner,193.39,147.09,0.24,2024-04-08,2.2
+product_444,Clothing,Juarez Group,191.61,159.4,0.17,2021-01-12,1.4
+product_445,Sports,Martinez PLC,408.27,237.85,0.42,2022-06-17,3.8
+product_446,Beauty,"Moran, Bryant and Andrews",474.15,239.16,0.5,2022-07-04,1.2
+product_447,Beauty,Kelley-Bass,493.14,273.57,0.45,2024-04-30,3.0
+product_448,Beauty,Rush-Delgado,379.16,326.08,0.14,2021-06-10,5.0
+product_449,Electronics,"Bailey, Powers and Roberts",194.37,165.13,0.15,2023-03-22,4.3
+product_450,Sports,Maxwell-Martin,50.92,37.63,0.26,2022-01-03,3.5
+product_451,Toys,"Rodgers, Villarreal and Anderson",390.8,289.27,0.26,2020-07-24,2.2
+product_452,Sports,Bell and Sons,283.62,217.26,0.23,2021-03-30,3.5
+product_453,Electronics,Grimes and Sons,217.87,124.22,0.43,2023-07-20,3.1
+product_454,Sports,Medina-Cardenas,454.11,393.15,0.13,2023-06-13,2.7
+product_455,Toys,Sullivan Group,64.49,43.05,0.33,2024-10-29,1.5
+product_456,Toys,Barry-Johnson,251.39,164.22,0.35,2021-06-04,4.5
+product_457,Clothing,"Blake, Smith and Klein",15.56,11.01,0.29,2024-08-28,2.8
+product_458,Clothing,Cobb-Nielsen,239.64,124.32,0.48,2022-10-13,1.8
+product_459,Toys,Mosley LLC,37.59,21.3,0.43,2022-08-13,2.5
+product_460,Electronics,"Miller, Marshall and Barker",68.22,54.25,0.2,2021-12-26,2.7
+product_461,Beauty,Gomez-Hoover,67.59,36.03,0.47,2022-10-10,4.3
+product_462,Books,Simpson Ltd,328.11,243.22,0.26,2021-05-15,3.9
+product_463,Toys,"Perez, Kramer and Edwards",375.56,224.64,0.4,2020-04-26,4.1
+product_464,Clothing,Williams Group,295.85,193.99,0.34,2021-01-20,1.0
+product_465,Toys,Benson-Hickman,481.46,296.33,0.38,2023-09-29,2.7
+product_466,Toys,Marshall-Williams,193.69,124.4,0.36,2021-08-06,2.9
+product_467,Toys,"Anderson, Clark and Callahan",150.0,118.14,0.21,2021-01-29,1.1
+product_468,Home,"Allen, Wilson and Calhoun",435.61,269.58,0.38,2022-12-23,2.0
+product_469,Sports,Jenkins Inc,119.56,86.87,0.27,2024-10-06,4.0
+product_470,Home,Holt Inc,481.98,332.77,0.31,2021-12-21,1.5
+product_471,Sports,Landry LLC,15.96,12.22,0.23,2020-03-12,3.1
+product_472,Sports,Moreno PLC,485.24,424.45,0.13,2024-12-17,1.9
+product_473,Toys,"Moore, Gomez and Simpson",31.15,24.7,0.21,2020-09-30,1.0
+product_474,Books,Townsend and Sons,446.66,261.73,0.41,2023-09-05,2.0
+product_475,Sports,"Williams, Jones and Mcdaniel",268.57,137.63,0.49,2020-12-03,4.9
+product_476,Clothing,Frey PLC,496.55,300.37,0.4,2023-10-21,4.2
+product_477,Sports,Carter PLC,46.16,34.07,0.26,2024-02-27,4.8
+product_478,Sports,Williams Group,281.39,146.48,0.48,2021-08-29,3.0
+product_479,Clothing,"Brown, Young and Ware",484.96,338.77,0.3,2020-06-14,1.4
+product_480,Books,Hudson-Cervantes,266.32,196.74,0.26,2024-04-16,3.2
+product_481,Home,Gonzalez-Mcdonald,318.41,201.78,0.37,2020-01-11,2.8
+product_482,Beauty,Fowler Inc,350.92,283.67,0.19,2023-08-17,4.4
+product_483,Electronics,Morales LLC,232.73,126.29,0.46,2021-12-29,1.4
+product_484,Clothing,Welch-Wu,317.5,168.29,0.47,2022-03-11,3.0
+product_485,Beauty,Ferguson-Crawford,296.31,234.46,0.21,2020-04-11,1.6
+product_486,Home,Benson-Johnson,451.57,315.28,0.3,2023-12-19,2.3
+product_487,Clothing,Anderson-Russell,32.27,25.02,0.22,2023-11-16,3.9
+product_488,Electronics,Downs-Lopez,147.67,99.52,0.33,2022-02-17,2.9
+product_489,Toys,Skinner PLC,475.7,284.74,0.4,2020-08-01,2.5
+product_490,Home,"Kelly, Hernandez and Clay",446.23,369.32,0.17,2024-09-10,2.6
+product_491,Electronics,Aguilar-Medina,233.27,191.23,0.18,2023-01-16,2.8
+product_492,Home,Carrillo-Baker,313.86,244.14,0.22,2024-04-25,4.1
+product_493,Clothing,Burton-Woods,145.92,88.84,0.39,2021-02-04,4.6
+product_494,Home,Hudson Group,102.18,75.21,0.26,2021-08-10,4.8
+product_495,Home,"Padilla, Pierce and Phillips",237.21,152.86,0.36,2022-06-07,4.1
+product_496,Toys,"Smith, Harris and Cook",183.14,98.28,0.46,2022-12-05,2.3
+product_497,Clothing,Hull-Brown,295.99,256.6,0.13,2024-08-22,3.8
+product_498,Beauty,Marshall and Sons,48.09,26.68,0.45,2024-01-26,2.8
+product_499,Sports,"Anderson, Knapp and Booker",487.45,429.0,0.12,2021-08-14,2.0
+product_500,Home,Fisher LLC,493.24,334.62,0.32,2023-08-26,4.4

@@ -1,0 +1,201 @@
+promo_id,start_date,end_date,discount_rate,promotion_name,promotion_type,target_segment,channel,budget
+promo_1,10/12/2023,11/7/2023,0.44,Cyber Week,Percentage,All,Online,54400.0
+promo_2,8/16/2023,3/30/2025,0.22,Summer Splash,BOGO,High Spenders,Online,18800.0
+promo_3,1/26/2024,4/29/2025,0.36,Mega Monday,Percentage,Loyal Users,Online,62200.0
+promo_4,4/25/2024,5/23/2024,0.4,Loyalty Love,Percentage,All,Both,12300.0
+promo_5,1/7/2024,6/24/2024,0.12,VIP Exclusive,Flash Sale,All,Online,12700.0
+promo_6,2/17/2024,10/14/2024,0.17,Black Friday,Percentage,All,Online,3900.0
+promo_7,2/1/2024,5/1/2025,0.31,Mega Monday,BOGO,Loyal Users,Both,13600.0
+promo_8,4/30/2024,2/2/2025,0.38,Back to School,Flash Sale,All,Online,45200.0
+promo_9,7/11/2023,8/14/2024,0.25,Cyber Week,BOGO,All,Both,50100.0
+promo_10,8/25/2023,5/15/2025,0.46,Clearance Blowout,Percentage,All,Online,77900.0
+promo_11,5/11/2024,2/15/2025,0.2,Easter Deal,Percentage,All,Online,11500.0
+promo_12,5/13/2024,6/12/2025,0.15,Cyber Week,Percentage,New Users,Online,61800.0
+promo_13,9/2/2023,5/10/2024,0.17,VIP Exclusive,Percentage,All,In-store,55800.0
+promo_14,10/27/2023,6/12/2024,0.21,VIP Exclusive,Percentage,High Spenders,Online,33600.0
+promo_15,9/10/2023,11/10/2024,0.26,Black Friday,Flash Sale,All,Both,75700.0
+promo_16,6/7/2024,6/3/2025,0.28,Back to School,Percentage,All,Online,81700.0
+promo_17,11/10/2023,4/14/2025,0.44,Summer Splash,Percentage,All,In-store,23300.0
+promo_18,5/23/2024,1/30/2025,0.13,Black Friday,Percentage,All,Online,28900.0
+promo_19,6/6/2024,8/26/2024,0.28,Black Friday,Flash Sale,High Spenders,Both,76600.0
+promo_20,10/15/2023,2/22/2024,0.19,Easter Deal,Percentage,New Users,Online,55300.0
+promo_21,1/29/2024,2/26/2024,0.44,Fall Fiesta,BOGO,New Users,Online,9100.0
+promo_22,11/7/2023,11/10/2024,0.46,Back to School,Percentage,New Users,Online,76700.0
+promo_23,5/22/2024,4/16/2025,0.35,Spring Saver,Percentage,All,Online,73600.0
+promo_24,2/8/2024,7/14/2024,0.16,Black Friday,Percentage,Loyal Users,Online,55500.0
+promo_25,12/28/2023,10/14/2024,0.06,Weekend Flash,Percentage,All,Online,52500.0
+promo_26,11/21/2023,1/17/2025,0.24,Payday Boost,Percentage,New Users,Online,66000.0
+promo_27,9/25/2023,6/17/2024,0.06,Fall Fiesta,Percentage,All,Online,14700.0
+promo_28,12/1/2023,4/19/2025,0.07,Spring Saver,BOGO,All,In-store,18000.0
+promo_29,4/7/2024,3/5/2025,0.4,Weekend Flash,Percentage,All,Both,60000.0
+promo_30,5/12/2024,8/14/2024,0.48,Back to School,Percentage,All,Online,89800.0
+promo_31,2/4/2024,10/22/2024,0.08,New Year Bash,Percentage,All,In-store,23300.0
+promo_32,8/19/2023,12/26/2023,0.42,Weekend Flash,Percentage,All,In-store,57000.0
+promo_33,7/16/2023,10/9/2023,0.37,Clearance Blowout,Percentage,High Spenders,Online,62600.0
+promo_34,3/25/2024,4/21/2024,0.46,Fall Fiesta,Percentage,All,Online,46400.0
+promo_35,10/25/2023,5/24/2025,0.13,Mega Monday,Percentage,All,Online,51300.0
+promo_36,1/12/2024,12/8/2024,0.28,Weekend Flash,Percentage,Loyal Users,Online,74500.0
+promo_37,3/28/2024,1/4/2025,0.13,Holiday Cheer,Percentage,Loyal Users,Online,45300.0
+promo_38,1/31/2024,8/16/2024,0.3,New Year Bash,BOGO,All,Online,47300.0
+promo_39,9/23/2023,1/15/2025,0.06,VIP Exclusive,Free Shipping,All,Both,30200.0
+promo_40,5/12/2024,8/23/2024,0.18,VIP Exclusive,Percentage,New Users,In-store,44500.0
+promo_41,1/14/2024,6/12/2024,0.26,Loyalty Love,Flash Sale,All,Online,31300.0
+promo_42,12/28/2023,4/30/2025,0.48,Clearance Blowout,Percentage,High Spenders,Online,41500.0
+promo_43,2/7/2024,4/11/2024,0.32,Weekend Flash,Flash Sale,Loyal Users,Online,47500.0
+promo_44,1/11/2024,11/5/2024,0.13,Weekend Flash,Percentage,All,Online,8000.0
+promo_45,10/4/2023,10/19/2024,0.26,Loyalty Love,Percentage,All,Online,21600.0
+promo_46,2/7/2024,4/8/2024,0.21,Payday Boost,Percentage,High Spenders,Both,43400.0
+promo_47,4/18/2024,3/29/2025,0.39,Payday Boost,BOGO,New Users,Online,41900.0
+promo_48,6/13/2024,3/9/2025,0.32,Loyalty Love,BOGO,New Users,Both,31300.0
+promo_49,11/9/2023,7/23/2024,0.17,Payday Boost,Percentage,New Users,Both,54800.0
+promo_50,1/24/2024,7/15/2024,0.15,Easter Deal,Percentage,New Users,Online,51100.0
+promo_51,3/18/2024,11/16/2024,0.11,Weekend Flash,Percentage,High Spenders,In-store,14300.0
+promo_52,2/14/2024,6/9/2025,0.14,Cyber Week,Percentage,High Spenders,Online,63000.0
+promo_53,6/25/2023,11/28/2023,0.12,Summer Splash,Percentage,Loyal Users,Online,36200.0
+promo_54,2/12/2024,11/27/2024,0.09,Holiday Cheer,Percentage,New Users,Online,50700.0
+promo_55,3/8/2024,9/25/2024,0.3,Easter Deal,Percentage,Loyal Users,In-store,49900.0
+promo_56,1/21/2024,3/18/2025,0.3,Back to School,Free Shipping,New Users,Online,83800.0
+promo_57,5/12/2024,5/10/2025,0.07,Easter Deal,Percentage,New Users,Both,50200.0
+promo_58,12/31/2023,4/14/2024,0.12,Cyber Week,Flash Sale,All,Both,50200.0
+promo_59,4/23/2024,6/10/2024,0.43,Back to School,Percentage,Loyal Users,Online,74500.0
+promo_60,10/28/2023,3/25/2025,0.29,Holiday Cheer,Free Shipping,Loyal Users,Both,15500.0
+promo_61,11/2/2023,3/25/2024,0.19,Cyber Week,Free Shipping,New Users,Online,18400.0
+promo_62,2/8/2024,5/17/2025,0.29,Spring Saver,Percentage,Loyal Users,Online,60600.0
+promo_63,7/4/2023,5/13/2025,0.2,Summer Splash,Percentage,New Users,Online,39500.0
+promo_64,9/11/2023,3/23/2025,0.34,Holiday Cheer,BOGO,All,Online,66900.0
+promo_65,1/27/2024,7/21/2024,0.45,Weekend Flash,Flash Sale,All,In-store,14200.0
+promo_66,9/9/2023,7/22/2024,0.4,Payday Boost,Percentage,All,Online,51500.0
+promo_67,5/18/2024,8/29/2024,0.2,Spring Saver,Percentage,All,Online,31200.0
+promo_68,10/27/2023,12/13/2023,0.42,Clearance Blowout,Free Shipping,All,Both,45300.0
+promo_69,3/21/2024,5/10/2024,0.25,Holiday Cheer,Free Shipping,New Users,Online,49900.0
+promo_70,8/21/2023,9/29/2023,0.23,Clearance Blowout,Percentage,All,Online,41300.0
+promo_71,12/13/2023,9/15/2024,0.45,Back to School,Percentage,New Users,Online,54000.0
+promo_72,8/27/2023,9/6/2023,0.17,Spring Saver,Flash Sale,All,In-store,37700.0
+promo_73,9/4/2023,1/31/2025,0.37,Summer Splash,Percentage,New Users,Online,39300.0
+promo_74,7/8/2023,8/31/2024,0.32,Weekend Flash,Percentage,All,Both,67000.0
+promo_75,5/5/2024,1/1/2025,0.23,Loyalty Love,Free Shipping,All,In-store,4800.0
+promo_76,11/13/2023,1/28/2025,0.28,Weekend Flash,BOGO,All,Online,51000.0
+promo_77,2/5/2024,11/21/2024,0.43,Cyber Week,Free Shipping,New Users,Online,55400.0
+promo_78,12/21/2023,8/27/2024,0.13,Weekend Flash,Percentage,All,Online,51400.0
+promo_79,11/9/2023,1/29/2025,0.45,Mega Monday,Percentage,High Spenders,Online,59400.0
+promo_80,6/5/2024,5/28/2025,0.06,Black Friday,BOGO,All,Online,54100.0
+promo_81,4/11/2024,6/8/2024,0.18,Loyalty Love,Percentage,All,Online,71500.0
+promo_82,5/30/2024,6/26/2024,0.18,Easter Deal,Percentage,High Spenders,Online,27900.0
+promo_83,4/24/2024,6/10/2024,0.48,Payday Boost,Flash Sale,New Users,Online,26200.0
+promo_84,11/25/2023,8/9/2024,0.07,New Year Bash,Percentage,All,Online,29700.0
+promo_85,6/29/2023,5/11/2025,0.26,Summer Splash,Percentage,New Users,Online,26100.0
+promo_86,8/15/2023,2/5/2025,0.42,Spring Saver,Flash Sale,New Users,Online,59400.0
+promo_87,6/21/2024,7/19/2024,0.35,Black Friday,Flash Sale,Loyal Users,Online,80600.0
+promo_88,5/27/2024,8/8/2024,0.33,Summer Splash,Percentage,All,Online,15700.0
+promo_89,4/1/2024,7/21/2024,0.25,Spring Saver,Flash Sale,All,Online,11700.0
+promo_90,3/18/2024,8/7/2024,0.18,Payday Boost,Percentage,New Users,Online,21800.0
+promo_91,9/28/2023,6/17/2025,0.34,Fall Fiesta,Percentage,Loyal Users,Both,64500.0
+promo_92,4/2/2024,8/25/2024,0.26,Fall Fiesta,Free Shipping,New Users,Online,49600.0
+promo_93,3/3/2024,12/28/2024,0.45,Clearance Blowout,Free Shipping,All,Both,14100.0
+promo_94,10/10/2023,3/13/2024,0.06,Summer Splash,Flash Sale,New Users,Online,59800.0
+promo_95,8/8/2023,12/3/2024,0.31,Fall Fiesta,Percentage,Loyal Users,Online,67900.0
+promo_96,3/18/2024,12/24/2024,0.36,Mega Monday,Flash Sale,All,Both,6400.0
+promo_97,2/25/2024,9/14/2024,0.12,Loyalty Love,Flash Sale,All,Online,46500.0
+promo_98,4/1/2024,4/23/2025,0.34,Spring Saver,Flash Sale,New Users,Online,68300.0
+promo_99,4/1/2024,1/21/2025,0.32,Clearance Blowout,Free Shipping,All,Online,34700.0
+,,,,Weekend Flash,BOGO,All,Online,9300.0
+,,,,Spring Saver,Percentage,All,Online,10000.0
+,,,,Clearance Blowout,Percentage,All,Online,12000.0
+,,,,Payday Boost,Flash Sale,All,Both,68600.0
+,,,,Summer Splash,Flash Sale,High Spenders,Online,73900.0
+,,,,Payday Boost,Percentage,Loyal Users,Online,13500.0
+,,,,Loyalty Love,Percentage,All,Online,22100.0
+,,,,Loyalty Love,Percentage,High Spenders,Online,16700.0
+,,,,Black Friday,Percentage,New Users,Online,18300.0
+,,,,Payday Boost,Flash Sale,All,Online,68300.0
+,,,,Cyber Week,Percentage,All,Online,29500.0
+,,,,Weekend Flash,Percentage,All,Online,27900.0
+,,,,Holiday Cheer,Percentage,All,Online,21500.0
+,,,,Payday Boost,Percentage,New Users,Online,50700.0
+,,,,Black Friday,Percentage,New Users,Both,33200.0
+,,,,Back to School,Free Shipping,All,Online,61200.0
+,,,,Mega Monday,Free Shipping,High Spenders,Online,19800.0
+,,,,Spring Saver,Percentage,Loyal Users,Both,64500.0
+,,,,Loyalty Love,Percentage,All,Online,50400.0
+,,,,Back to School,Percentage,High Spenders,Both,12800.0
+,,,,Black Friday,BOGO,High Spenders,Online,35900.0
+,,,,Clearance Blowout,Percentage,High Spenders,In-store,70300.0
+,,,,Holiday Cheer,Percentage,All,Online,74900.0
+,,,,Weekend Flash,Flash Sale,Loyal Users,In-store,39800.0
+,,,,Weekend Flash,Percentage,New Users,Online,40900.0
+,,,,Weekend Flash,Flash Sale,Loyal Users,Online,74500.0
+,,,,Mega Monday,Percentage,High Spenders,Online,49100.0
+,,,,Holiday Cheer,Percentage,New Users,Online,6600.0
+,,,,Mega Monday,BOGO,Loyal Users,Both,74100.0
+,,,,Loyalty Love,BOGO,Loyal Users,In-store,23100.0
+,,,,Mega Monday,Flash Sale,Loyal Users,Online,48400.0
+,,,,New Year Bash,Percentage,All,Both,16700.0
+,,,,Holiday Cheer,Percentage,All,Online,6600.0
+,,,,Cyber Week,Percentage,All,Online,27900.0
+,,,,Holiday Cheer,Free Shipping,Loyal Users,Online,64000.0
+,,,,Black Friday,Percentage,All,In-store,25300.0
+,,,,New Year Bash,Flash Sale,New Users,Online,20900.0
+,,,,Weekend Flash,Percentage,All,Online,20400.0
+,,,,Black Friday,Percentage,New Users,Both,43600.0
+,,,,Black Friday,Flash Sale,Loyal Users,Online,78900.0
+,,,,Loyalty Love,Free Shipping,Loyal Users,Online,39300.0
+,,,,VIP Exclusive,Flash Sale,All,Online,46800.0
+,,,,Easter Deal,Percentage,High Spenders,Online,70100.0
+,,,,New Year Bash,Percentage,New Users,Online,45100.0
+,,,,Black Friday,Percentage,All,Online,18200.0
+,,,,Easter Deal,Flash Sale,Loyal Users,Online,27000.0
+,,,,Easter Deal,Percentage,All,Online,27800.0
+,,,,New Year Bash,Percentage,All,Online,34500.0
+,,,,VIP Exclusive,Percentage,Loyal Users,In-store,36800.0
+,,,,Back to School,Percentage,All,Online,65400.0
+,,,,Clearance Blowout,Percentage,All,Online,30900.0
+,,,,Cyber Week,Percentage,All,Online,40000.0
+,,,,Clearance Blowout,Percentage,All,Online,52000.0
+,,,,Holiday Cheer,Free Shipping,All,Online,33000.0
+,,,,Weekend Flash,Flash Sale,New Users,Both,68300.0
+,,,,Cyber Week,Percentage,Loyal Users,Online,49100.0
+,,,,Holiday Cheer,Percentage,Loyal Users,Online,26600.0
+,,,,Black Friday,BOGO,Loyal Users,Online,58900.0
+,,,,Weekend Flash,Percentage,Loyal Users,Online,44500.0
+,,,,Spring Saver,Percentage,New Users,Both,45100.0
+,,,,New Year Bash,Percentage,All,Online,41000.0
+,,,,Cyber Week,Percentage,All,Online,42200.0
+,,,,Cyber Week,Free Shipping,All,Online,62800.0
+,,,,Payday Boost,Percentage,All,Online,11900.0
+,,,,Black Friday,Free Shipping,New Users,Both,29700.0
+,,,,Back to School,Percentage,All,Online,9800.0
+,,,,Easter Deal,Percentage,Loyal Users,Both,61900.0
+,,,,Weekend Flash,Percentage,High Spenders,Online,24900.0
+,,,,Black Friday,Percentage,New Users,Both,72900.0
+,,,,Fall Fiesta,BOGO,All,Online,44500.0
+,,,,VIP Exclusive,Percentage,All,Online,65500.0
+,,,,Easter Deal,Percentage,High Spenders,Online,79200.0
+,,,,New Year Bash,BOGO,High Spenders,Both,68500.0
+,,,,Easter Deal,Percentage,All,Both,70600.0
+,,,,Back to School,Percentage,New Users,Online,35400.0
+,,,,Loyalty Love,Percentage,All,Both,46400.0
+,,,,Payday Boost,Percentage,All,Online,23500.0
+,,,,Easter Deal,Flash Sale,All,Both,19100.0
+,,,,New Year Bash,Percentage,All,Online,42800.0
+,,,,Back to School,Percentage,High Spenders,In-store,49700.0
+,,,,Clearance Blowout,Percentage,New Users,Both,30100.0
+,,,,Cyber Week,BOGO,All,In-store,47800.0
+,,,,Loyalty Love,Percentage,Loyal Users,Online,72200.0
+,,,,Payday Boost,Percentage,High Spenders,Online,46800.0
+,,,,Cyber Week,Flash Sale,High Spenders,Both,59400.0
+,,,,VIP Exclusive,Free Shipping,All,Online,65900.0
+,,,,Holiday Cheer,Flash Sale,All,Both,79900.0
+,,,,Loyalty Love,Percentage,All,In-store,50300.0
+,,,,Loyalty Love,Percentage,All,Online,66000.0
+,,,,Clearance Blowout,Percentage,All,In-store,77900.0
+,,,,Clearance Blowout,Percentage,New Users,Online,76500.0
+,,,,Weekend Flash,Percentage,All,In-store,14900.0
+,,,,Mega Monday,Free Shipping,All,In-store,35200.0
+,,,,Easter Deal,Percentage,All,Online,28900.0
+,,,,Loyalty Love,Flash Sale,All,Online,10700.0
+,,,,Cyber Week,Percentage,All,Both,52600.0
+,,,,New Year Bash,Free Shipping,All,Online,60500.0
+,,,,Summer Splash,Percentage,All,Online,69100.0
+,,,,Mega Monday,Percentage,All,Online,13500.0
+,,,,Summer Splash,BOGO,All,Online,71300.0
+,,,,Payday Boost,Percentage,New Users,Online,53400.0

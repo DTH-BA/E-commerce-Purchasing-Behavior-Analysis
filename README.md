@@ -14,11 +14,11 @@ The dataset includes multiple entities (**users, products, promotions, orders, a
 
 ## Datasets
 The project uses **5 CSV files** as input:  
-- `users_extended.csv` – customer demographic & profile info.  
-- `products_extended.csv` – product catalog with categories, prices, margins.  
-- `promotions_extended.csv` – promotion campaigns and discount details.  
-- `orders_extended.csv` – high-level order information (dates, amounts, payment).  
-- `order_items_extended.csv` – line-item details for each order.  
+- `users.csv` – customer demographic & profile info.  
+- `products.csv` – product catalog with categories, prices, margins.  
+- `promotions.csv` – promotion campaigns and discount details.  
+- `orders.csv` – high-level order information (dates, amounts, payment).  
+- `order_items.csv` – line-item details for each order.  
 
 ---
 
